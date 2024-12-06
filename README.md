@@ -1,8 +1,8 @@
 # Program Description
 
-This interactive furniture showroom project was my submission for the final project for the class Informática Gráfica at the University of Jaén. The language is C++ and the main library used OpenGL.
+This interactive furniture showroom project was my submission for the final project for the class Informática Gráfica at the University of Jaén. The language is C++ and the main library used is OpenGL.
 
-The program models a showroom consisting of lights, a table, and a floor.
+The program models a showroom that features lights, a table, a floor, and a top-down viewport in the top-right corner.
 
 ## Manual
 
