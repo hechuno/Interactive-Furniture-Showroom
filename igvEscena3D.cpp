@@ -200,7 +200,14 @@ void igvEscena3D::visualizarVB( void )
 
     //Suelo
             glPushMatrix();
-                glMaterialfv(GL_FRONT, GL_EMISSION, color_malla);
+
+                if(textura)
+                {
+                    glMaterialfv(GL_FRONT, GL_EMISSION, white);
+                } else
+                {
+                    glMaterialfv(GL_FRONT, GL_EMISSION, color_malla);
+                }
 
                     if(textura)
                     {

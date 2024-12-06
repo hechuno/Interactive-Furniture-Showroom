@@ -56,6 +56,7 @@ class igvEscena3D
     GLfloat color_malla[3] = { 0.0f, 0.0f, 1.0f };
     GLfloat leg_color[3] = { 0.0f, 1.0f, 0.0f };
     GLfloat counter_color[3] = { 1.0f, 0.0f, 0.0f };
+    GLfloat white[3] = { 1.0f, 1.0f, 1.0f };
 
     const int noTexture = 1;
     const int texture = 2;
