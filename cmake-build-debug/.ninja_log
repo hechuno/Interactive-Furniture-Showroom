@@ -1,0 +1,18 @@
+# ninja log v6
+4	1474	7551149828889211	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvCamara.cpp.obj	1785d5df53129f7a
+28	1555	7551149829126850	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvPunto3D.cpp.obj	5f6eb2619a12a113
+9	1862	7551149828943134	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvCilindro.cpp.obj	325c0324f9411a16
+13	2126	7551149828981909	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvEscena3D.cpp.obj	6e9c69f224340fb2
+23	2141	7551149829076932	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvMallaTriangulos.cpp.obj	136e372f7123e204
+18	2196	7551149829022861	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvInterfaz.cpp.obj	766da04f95bc6210
+1556	3071	7551149844401473	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvFuenteLuz.cpp.obj	97f8f76891daa6c0
+1863	3275	7551149847478751	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvColor.cpp.obj	6c8cbd2ead9669b6
+1479	3291	7551149843639081	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/ProyectoGraficaHechunOuyang.cpp.obj	390e7d30fa9712c7
+2141	3817	7551149850261472	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/lodepng.cpp.obj	ea8f6dcae189ebfc
+2126	3973	7551149850110393	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvTextura.cpp.obj	9538fa41460de21a
+3973	4338	7551149868573689	proyectoGraficaFinalHechunOuyang.exe	96b2c5cfc8f8fd2d
+69	2744	7551151240047058	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/ProyectoGraficaHechunOuyang.cpp.obj	390e7d30fa9712c7
+2745	3166	7551151266810519	proyectoGraficaFinalHechunOuyang.exe	96b2c5cfc8f8fd2d
+15	1603	7551188838758456	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvInterfaz.cpp.obj	766da04f95bc6210
+10	1613	7551188838715750	CMakeFiles/proyectoGraficaFinalHechunOuyang.dir/igvEscena3D.cpp.obj	6e9c69f224340fb2
+1613	1865	7551188854741022	proyectoGraficaFinalHechunOuyang.exe	96b2c5cfc8f8fd2d

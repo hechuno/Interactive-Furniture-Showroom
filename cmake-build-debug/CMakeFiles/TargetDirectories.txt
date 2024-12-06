@@ -1,0 +1,3 @@
+C:/Users/Allo/Downloads/ProyectoGraficaHechunOuyang/cmake-build-debug/CMakeFiles/proyectoGraficaFinalHechunOuyang.dir
+C:/Users/Allo/Downloads/ProyectoGraficaHechunOuyang/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Allo/Downloads/ProyectoGraficaHechunOuyang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
